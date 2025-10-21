@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent Retrieval Assistant",
+  "description": "An intelligent, multi-domain information retrieval assistant that interprets natural language queries to retrieve relevant information from the web and maps, providing context-aware, structured responses with source citations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
