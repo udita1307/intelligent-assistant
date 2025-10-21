@@ -1,4 +1,3 @@
-
 import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
 import type { GroundingChunk, GeminiResponse, Source } from "../types";
 
@@ -17,6 +16,7 @@ export const fetchInformation = async (
   query: string,
   location: GeolocationCoordinates | null
 ): Promise<GeminiResponse> => {
+  // FIX: Use process.env.API_KEY as per coding guidelines to resolve TypeScript error and adhere to project standards.
   if (!process.env.API_KEY) {
     throw new Error("API_KEY environment variable is not set.");
   }
