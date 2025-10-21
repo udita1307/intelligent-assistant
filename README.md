@@ -9,6 +9,7 @@ This contains everything you need to run your app locally.
 View your app in AI Studio: https://ai.studio/apps/drive/1rWozM86a7lz0nh2kPWTaXIn6OMjSgRxe -->
 
 🤖 Intelligent Retrieval Assistant
+
 Welcome to the Intelligent Retrieval Assistant, a sophisticated web application that showcases the power of the Google Gemini API for real-time information retrieval.
 This project goes beyond a standard chatbot by interpreting complex, multi-intent natural language queries and answering them with accurate, up-to-date information grounded in Google Search and Google Maps. Whether you're looking for the best pet-friendly cafes in your area or asking a technical question, this assistant is designed to provide structured, reliable, and transparently sourced answers.
 ✨ Key Features
